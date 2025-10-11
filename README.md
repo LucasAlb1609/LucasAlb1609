@@ -13,7 +13,7 @@ Quando não estou codando, provavelmente tou pegando uns pesos na academia 🏋�
 ## ⚙️ Tecnologias e Ferramentas
 
 🧠 **Linguagens:**  
-Python | JavaScript | HTML | CSS  
+Python | React | JavaScript | HTML | CSS  
 
 🛠️ **Frameworks e libs:**  
 Django | Tailwind | Bootstrap | Pillow | PyMuPDF
