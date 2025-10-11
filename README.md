@@ -13,10 +13,10 @@ Quando não estou codando, provavelmente tou pegando uns pesos na academia 🏋�
 ## ⚙️ Tecnologias e Ferramentas
 
 🧠 **Linguagens:**  
-Python | React | JavaScript | HTML | CSS  
+Python | JavaScript | HTML | CSS  
 
 🛠️ **Frameworks e libs:**  
-Django | Tailwind | Bootstrap | Pillow | PyMuPDF
+Django | React | Tailwind | Bootstrap | Pillow | PyMuPDF
 
 🗄️ **Banco de Dados:**  
 SQLite | PostgreSQL | MySQL
