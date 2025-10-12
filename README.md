@@ -30,7 +30,7 @@ Git | GitHub | VSCode | Docker (aprendendo ainda 😅)
 
 ### ⛪ [(em andamento) Sistema completo para minha igreja em Django](https://github.com/LucasAlb1609/site_igreja)
 Plataforma completa com o site da igreja e um backend contendo login, cadastro de membros e congregados, atribuição de papéis (usuários comuns, secretários e professores) e geração/solicitação de certificados automáticos em PDF a depender do tipo de usuário que está solicitando.  
-**Stack:** React, Django, SQLite, Pillow, Bootstrap e migração para Tailwind CSS em andamento.  
+**Stack:** React, Django, SQLite, Pillow e migração para Tailwind CSS em andamento.  
 **O que aprendi:** Front-end, autenticação de usuários, manipulação de arquivos e ORM.
 
 ---
