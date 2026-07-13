@@ -4,7 +4,7 @@
 </p>
 
 ## 👨‍💻 Sobre mim
-Sou **Programador Júnior**, **pós-graduado** com foco em **Django** 🐍 e uma quedinha por **backend**.  
+Sou **Programador Júnior**, **pós-graduado** com foco em **React** e uma quedinha por **backend**.  
 Curioso, falante e viciado em desafios novos 💪.  
 Quando não estou codando, provavelmente tou pegando uns pesos na academia 🏋️‍♂️.
 
