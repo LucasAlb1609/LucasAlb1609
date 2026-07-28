@@ -42,21 +42,13 @@ Site que tem como demonstração uma loja de suplementos, mas pode ser aplicada 
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucasAlb1609&show_icons=true&theme=radical" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlb1609&layout=compact&theme=radical" />
-</p>
-
 ---
 
 ## 📫 Onde me achar
 
 - 💼 [LinkedIn](https://https://www.linkedin.com/in/lucas-albuquerque-27088222b)
 - 📧 **lucas.alb2022@gmail.com**
-- 🐍 [GitHub](https://github.com/LucasAlb1609)
-
+- 
 ---
 
 <p align="center">
