@@ -48,7 +48,7 @@ Site que tem como demonstração uma loja de suplementos, mas pode ser aplicada 
 
 - 💼 [LinkedIn](https://https://www.linkedin.com/in/lucas-albuquerque-27088222b)
 - 📧 **lucas.alb2022@gmail.com**
-- 
+  
 ---
 
 <p align="center">
